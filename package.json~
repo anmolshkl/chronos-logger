@@ -1,0 +1,26 @@
+{
+  "name": "chronos",
+  "version": "1.0.0",
+  "description": "A smart logger that buffers the logs/data and posts/flushes it to a set destination periodically.",
+  "main": "index.js",
+  "scripts": {
+    "test": "4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anmolshkl/chronos-logger.git"
+  },
+  "keywords": [
+    "nodejs",
+    "log",
+    "logger",
+    "log",
+    "client"
+  ],
+  "author": "Anmol Shukla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anmolshkl/chronos-logger/issues"
+  },
+  "homepage": "https://github.com/anmolshkl/chronos-logger#readme"
+}
